@@ -3,7 +3,7 @@
 Rashed is an Arabic voice agent I built independently with ElevenLabs
 for a fictional Saudi motor insurance company as a Sarj AI take-home challenge.
 
-**[Watch the demo on Loom](YOUR_LOOM_URL)**
+**[Watch the demo on Loom](https://www.loom.com/share/b7435f3910fd434ca666eaf3bbfffe5a)**
 
 ## What I built
 
